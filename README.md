@@ -1,0 +1,1 @@
+ A basic latex template for generating presentation slides.
